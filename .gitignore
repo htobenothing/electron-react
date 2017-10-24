@@ -1,5 +1,5 @@
-/node_modules
+node_modules
 
-/electron-quick-start-win32-x64
+electron-quick-start-win32-x64
 
-/.vscode
+.vscode
