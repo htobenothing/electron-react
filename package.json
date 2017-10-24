@@ -9,7 +9,7 @@
     "watch": "webpack-dev-server --config webpack.config.js",
     "electron-rebuild": "electron-rebuild"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/htobenothing/electron-react.git",
   "keywords": [
     "Electron",
     "react",
